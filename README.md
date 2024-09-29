@@ -67,3 +67,9 @@ After installing the dependencies, you can run the Jupyter notebooks to:
 
  Using the scripts in the src folder, the model is deployed to Amazon SageMaker for serverless inference, where it can be invoked for predictions via a real-time endpoint.To deploy the trained model on Amazon SageMaker for serverless inference, the necessary steps are detailed in the src folder of this repository.
 
+## Contributors
+
+- Rahul Yadav
+
+
+Feel free to contribute by submitting issues or pull requests!
